@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Swetha 👋
 
-<!--
-**SwethaBattula/SwethaBattula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Technical Business Analyst
+💻 Learning Python, SQL, and Data Analysis
+📊 Interested in Data, Business Insights & AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Python 🐍
+* SQL 🗄️
+* Data Analysis 📊
+* Git & GitHub
+
+---
+
+## 📌 Current Focus
+
+* Becoming a Technical Business Analyst
+* Building real-world projects
+* Improving coding and problem-solving skills
+
+---
+
+## 📂 Projects
+
+* Smart Parking System 🚗
+* AI Tutor (Learning Companion) 🤖
+* Tourism Website 🌍
+
+---
+
+## 📫 Connect with me
+
+* LinkedIn: www.linkedin.com/in/swetha-battula0910
+* GitHub: https://github.com/SwethaBattula
+
+---
+
+⭐ “Always learning, always growing”
