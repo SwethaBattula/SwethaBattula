@@ -80,4 +80,4 @@
 
 ---
 
-> “Always learning, always growing.”
+ “Always learning, always growing.”
