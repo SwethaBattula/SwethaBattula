@@ -68,13 +68,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/swetha-battula0910" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/SwethaBattula" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
