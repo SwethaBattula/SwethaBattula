@@ -80,6 +80,4 @@
 
 ---
 
-## 🌟 Quote
-
 > “Always learning, always growing.”
